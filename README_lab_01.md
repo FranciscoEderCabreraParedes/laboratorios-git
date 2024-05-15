@@ -51,5 +51,7 @@ Primer Laboratorio GIT: Implementing Git workflows and Best Practices
 <br/> Se realiza el PR requerido de la rama feature/lab_dev01 a la rama main con las descripciones necesarias
 <br/> <img width="1327" alt="image" src="https://github.com/FranciscoEderCabreraParedes/laboratorios-git/assets/140001025/9fbd1a7a-99fb-4a4c-988a-141fb20c98b1">
 <br/> <img width="1185" alt="image" src="https://github.com/FranciscoEderCabreraParedes/laboratorios-git/assets/140001025/7ae4f3e6-4c17-4876-8f44-55b4d24555e5">
+<br/> <img width="1322" alt="image" src="https://github.com/FranciscoEderCabreraParedes/laboratorios-git/assets/140001025/699deab4-f063-49fa-bd2e-70257b087ec1">
+
  
 
