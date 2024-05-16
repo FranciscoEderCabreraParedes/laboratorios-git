@@ -50,4 +50,6 @@ TASK 2
   <img width="550" alt="image" src="https://github.com/FranciscoEderCabreraParedes/laboratorios-git/assets/140001025/81cf6459-55ae-4d5c-bc13-3f5d3e8252c6">
 
 
-Podemos ejecutar esta clase principal entrando a carpeta demo/src/main/java/example/solid desde cualquier IDE de desarrollo y ejecutar la clase Main.java
+Podemos ejecutar esta clase principal entrando a carpeta demo/src/main/java/example/solid desde cualquier IDE de desarrollo y ejecutar la clase Main.java <br/>
+<img width="1303" alt="image" src="https://github.com/FranciscoEderCabreraParedes/laboratorios-git/assets/140001025/1dd425a8-0249-4820-a35a-bee4c1f1aa28">
+
